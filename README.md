@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Network Administrator</b>
-  - Setup POS Network - (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Setup POS Network - (https://github.com/Olegna09/POS-Network-Setup)
  
 - <b>System Administrator</b>
   - Active Directory setup - (https://github.com/joshmadakor1/Algorithms-Practice)
