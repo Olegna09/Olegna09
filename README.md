@@ -3,15 +3,15 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Network Administrator</b>
-  - Setup POS Network - (https://github.com/Olegna09/POS-Network-Setup)
+  - Setup POS Network - https://github.com/Olegna09/POS-Network-Setup
  
 - <b>System Administrator</b>
-  - Active Directory setup - (https://github.com/joshmadakor1/Algorithms-Practice)
+  - Active Directory setup - https://github.com/joshmadakor1/Algorithms-Practice
 
 <h2>Trainings</h2>
 
-- CCNA 200-301 - (https://techacademy.ph/)
-- Comptia security+ sy0-601 - ((https://techacademy.ph/) (https://www.diontraining.com/))
+- CCNA 200-301 - https://techacademy.ph/
+- Comptia security+ sy0-601 - https://techacademy.ph/ https://www.diontraining.com/
 
 <h2> 🤳 Connect with me:</h2>
 
