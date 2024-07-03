@@ -8,7 +8,6 @@ I am an experienced IT professional with over 8 years in the field, progressing 
 I am seeking to leverage my extensive IT experience and strong passion for cybersecurity to secure a SOC Analyst Tier 1 position, where I can contribute to monitoring and defending against cyber threats while further developing my skills in a dynamic and challenging environment.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +19,6 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
