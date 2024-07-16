@@ -1,6 +1,6 @@
 # Hello, I'm Angelo
 <a href="https://www.linkedin.com/in/angelo-de-jesus-7192971b8"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-# <a href="https://gelodejesus.blogspot.com"/>Blogpost</a>
+| <a href="https://gelodejesus.blogspot.com">Blogpost</a>
 
 I am an experienced IT professional with over 8 years in the field, progressing from IT Staff to IT Supervisor. I have a strong passion for cybersecurity and continuously seek to expand my knowledge in this area. My expertise includes IT operations, system administration, and network management.
 
