@@ -11,7 +11,7 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOAR EDR Project                              | <a href="https://github.com/Olegna09/Detection-Lab/blob/main/README.md">Detection Lab</a>|
+| Create Detection & Response with Limacharlie and Tines                              | <a href="https://github.com/Olegna09/Detection-Lab/blob/main/README.md">SOAR-EDR Lab</a>|
 | Threat Hunting with sysmon                    | <a href="https://google.com">Detection Lab</a>|
 | Malware Investigation using Dynamic Analysis  | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
