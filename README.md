@@ -45,4 +45,4 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 </div>
 
 
-### <a href="https://medium.com/@angelodejesus0309">WRITE UPS | BLOGS</a>
+### <a href="https://medium.com/@angelodejesus0309">WRITEUP | BLOGS</a>
