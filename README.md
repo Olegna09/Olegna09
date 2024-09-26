@@ -46,4 +46,4 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 
 ## 
 
-## <a href="https://medium.com/@angelodejesus0309">WRITEUP | BLOGS</a>
+## <a href="https://medium.com/@ALOBAH">WRITEUP | BLOGS</a>
