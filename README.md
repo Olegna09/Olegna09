@@ -44,6 +44,5 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 
 </div>
 
-## Projects
-- <a href="https://github.com/Olegna09/Detection-Lab/blob/main/README.md">Detection Lab</a>
-- SOC Automation Project
+
+### <a href="https://medium.com/@angelodejesus0309">WRITE UPS | BLOGS</a>
