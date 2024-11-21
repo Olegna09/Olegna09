@@ -12,8 +12,7 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Create Detection & Response with Limacharlie and Tines                              | <a href="https://github.com/Olegna09/Detection-Lab/blob/main/README.md">SOAR-EDR Lab</a>|
-| Simple SOC ANalyst Home Lab                  | <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-1-82a1a4dcd2d8">Part 1</a> <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-2-17361b286796">Part 2</a> <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-3-b8ca2cd66021">Part 3</a>  |
-                                               | Part 2
+| Simple SOC Analyst Home Lab                  | <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-1-82a1a4dcd2d8">Part 1</a> <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-2-17361b286796">Part 2</a> <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-3-b8ca2cd66021">Part 3</a>  |
 
 ## Tools
 
