@@ -12,29 +12,18 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Create Detection & Response with Limacharlie and Tines                              | <a href="https://github.com/Olegna09/Detection-Lab/blob/main/README.md">SOAR-EDR Lab</a>|
-| Threat Hunting with sysmon                    | <a href="https://google.com">Detection Lab</a>|
-| Malware Investigation using Dynamic Analysis  | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Simple SOC ANalyst Home Lab                  | <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-1-82a1a4dcd2d8">Part 1</a> <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-2-17361b286796">Part 2</a> <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-3-b8ca2cd66021">Part 3</a>  |
+                                               | Part 2
 
 ## Tools
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
