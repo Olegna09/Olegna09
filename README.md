@@ -20,11 +20,15 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-5E2750?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-DB4437?&style=for-the-badge&logoColor=white" />
+
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications
