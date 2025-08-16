@@ -29,7 +29,7 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 ## Certifications
 <div>
 <a href="https://www.credly.com/badges/a8925bdf-5465-4bf6-894b-bb1842c8a735"/><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
-<a href="https://www.credly.com/badges/a8925bdf-5465-4bf6-894b-bb1842c8a735"/><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/bb8ee82a-b5b2-41da-8bd9-3e0db44d891b/public_url"/><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 
 </div>
 
