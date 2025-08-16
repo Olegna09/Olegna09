@@ -1,7 +1,7 @@
 # Hello, I'm Angelo
 <a href="https://www.linkedin.com/in/angelo-de-jesus-7192971b8"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an experienced IT professional with over 8 years in the field, progressing from IT Staff to IT Supervisor. I have a strong passion for cybersecurity and continuously seek to expand my knowledge in this area. My expertise includes IT operations, system administration, and network management.
+I am an experienced IT professional with over 9 years in the field, progressing from IT Staff to IT Supervisor. I have a strong passion for cybersecurity and continuously seek to expand my knowledge in this area. My expertise includes IT operations, system administration, and network management.
 
 ## Objective
 
@@ -28,6 +28,7 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 
 ## Certifications
 <div>
+<a href="https://www.credly.com/badges/a8925bdf-5465-4bf6-894b-bb1842c8a735"/><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 <a href="https://www.credly.com/badges/a8925bdf-5465-4bf6-894b-bb1842c8a735"/><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 
 </div>
