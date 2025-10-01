@@ -13,7 +13,7 @@ I am seeking to leverage my extensive IT experience and strong passion for cyber
 |-----------------------------------------------|----------------------------|
 | Create Detection & Response with Limacharlie and Tines                              | <a href="https://github.com/Olegna09/Detection-Lab/blob/main/README.md">SOAR-EDR Lab</a>|
 | Simple SOC Analyst Home Lab                  | <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-1-82a1a4dcd2d8">Part 1</a> <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-2-17361b286796">Part 2</a> <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-3-b8ca2cd66021">Part 3</a>  |
-| Network Analysis Using WireShark                  | <a href="https://medium.com/@ALOBAH/project-1-simple-soc-analyst-home-lab-part-1-82a1a4dcd2d8">Detecting Malicious Traffic</a>   |
+| Microsoft Security stack SOC Analyst                  | <a href="https://medium.com/@ALOBAH/mydfir-microsoft-soc-analyst-challenge-d798e82f3b18">Detecting Malicious Traffic</a>   |
 
 ## Tools
 
