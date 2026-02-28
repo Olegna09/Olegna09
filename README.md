@@ -1,11 +1,13 @@
 # Hello, I'm Angelo
 <a href="https://www.linkedin.com/in/angelo-de-jesus-7192971b8"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an experienced IT professional with over 9 years in the field, progressing from IT Staff to IT Supervisor. I have a strong passion for cybersecurity and continuously seek to expand my knowledge in this area. My expertise includes IT operations, system administration, and network management.
+I’m an IT professional with nearly 10 years of experience, progressing from IT Staff to IT Supervisor. Throughout my career, I’ve built strong expertise in IT operations, system administration, and network management, ensuring reliable and secure technology environments.
+
+I have hands-on experience in cloud administration, including Microsoft Entra ID user and group provisioning/deprovisioning, as well as Microsoft 365 administration for managing collaboration tools and licenses.
 
 ## Objective
 
-I am seeking to leverage my extensive IT experience and strong passion for cybersecurity to secure a SOC Analyst Tier 1 position, where I can contribute to monitoring and defending against cyber threats while further developing my skills in a dynamic and challenging environment.
+To obtain an IAM Analyst position where I can apply my technical expertise and passion for cybersecurity to strengthen identity governance, access controls, and authentication processes. I aim to contribute to securing organizational systems by ensuring proper user provisioning, access management, and policy enforcement while continuously developing my skills in identity and access management.
 
 ## Skills
 
