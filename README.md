@@ -22,7 +22,6 @@ To obtain an IAM Analyst position where I can apply my technical expertise and p
 - Managed User & Group lifecycle (Joiner-Mover-Leaver process)
 - Conducted Access Reviews and enforced least privilege
 - Configured Conditional Access policies and MFA enforcement
-- Supported identity governance and privileged access management
 
 ## 🧪 IAM Projects (In Progress)
 
@@ -47,11 +46,9 @@ To obtain an IAM Analyst position where I can apply my technical expertise and p
 - Microsoft Entra ID (Azure AD)
 - Active Directory
 - Azure Portal
-- Microsoft Entra ID Protection
 - Conditional Access
 - Microsoft 365 Admin Center
 - PowerShell (Identity & User Management)
-- AWS IAM (Basic Policy & Role Management)
 
 ## 🛡 Security & Monitoring Tools (Foundation)
 
