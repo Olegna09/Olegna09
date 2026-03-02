@@ -1,5 +1,10 @@
 # Hello, I'm Angelo
-<a href="https://www.linkedin.com/in/angelo-de-jesus-7192971b8"/><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/angelo-de-jesus-7192971b8">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@gelosec">
+  <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
 I’m an IT professional with nearly 10 years of experience, progressing from IT Staff to IT Supervisor. Throughout my career, I’ve built strong expertise in IT operations, system administration, and network management, ensuring reliable and secure technology environments.
 
