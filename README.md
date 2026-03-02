@@ -16,6 +16,24 @@ To obtain an IAM Analyst position where I can apply my technical expertise and p
 
 ## Skills
 
+## 💼 Professional IAM Experience
+
+- Designed and implemented Role-Based Access Control (RBAC) in Microsoft Entra ID
+- Managed User & Group lifecycle (Joiner-Mover-Leaver process)
+- Conducted Access Reviews and enforced least privilege
+- Configured Conditional Access policies and MFA enforcement
+- Supported identity governance and privileged access management
+
+## 🧪 IAM Projects (In Progress)
+
+| Project | Description |
+|----------|------------|
+| Conditional Access & MFA Lab | Designing and testing risk-based access policies |
+| Privileged Identity Management (PIM) Lab | Implementing just-in-time privileged access model |
+| Identity Lifecycle Automation | Simulating structured Joiner-Mover-Leaver process |
+
+## 🛡 Security Operations Labs & Training
+
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Create Detection & Response with Limacharlie and Tines                              | <a href="https://github.com/Olegna09/Detection-Lab/blob/main/README.md">SOAR-EDR Lab</a>|
@@ -24,20 +42,25 @@ To obtain an IAM Analyst position where I can apply my technical expertise and p
 
 ## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-5E2750?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-DB4437?&style=for-the-badge&logoColor=white" />
+## 🛠 IAM Tools & Platforms
 
-</div>
+- Microsoft Entra ID (Azure AD)
+- Active Directory
+- Azure Portal
+- Microsoft Entra ID Protection
+- Conditional Access
+- Microsoft 365 Admin Center
+- PowerShell (Identity & User Management)
+- AWS IAM (Basic Policy & Role Management)
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+## 🛡 Security & Monitoring Tools (Foundation)
+
+- Microsoft Sentinel
+- Microsoft Defender XDR
+- Splunk
+- Wireshark
+- Zeek
+- Suricata
 
 ## Certifications
 <div>
