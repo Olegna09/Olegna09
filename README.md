@@ -27,7 +27,7 @@ To obtain an IAM Analyst position where I can apply my technical expertise and p
 
 | Project | Description |
 |----------|------------|
-| Conditional Access & MFA Lab | Designing and testing risk-based access policies |
+| Enterprise Identity Governance Lab – Microsoft Entra ID</a> | Designing and testing risk-based access policies |
 | Privileged Identity Management (PIM) Lab | Implementing just-in-time privileged access model |
 | Identity Lifecycle Automation | Simulating structured Joiner-Mover-Leaver process |
 
