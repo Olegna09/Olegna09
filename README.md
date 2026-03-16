@@ -28,8 +28,8 @@ To obtain an IAM Analyst position where I can apply my technical expertise and p
 | Project | Description |
 |----------|------------|
 | <a href="https://github.com/Olegna09/entra-id-identity-governance-lab">Enterprise Identity Governance Lab – Microsoft Entra ID</a> | A hands-on identity governance lab demonstrating user provisioning, group management, delegated administration, custom security attributes, and hybrid identity using Microsoft Entra ID. |
-| Privileged Identity Management (PIM) Lab | Implementing just-in-time privileged access model |
-| Identity Lifecycle Automation | Simulating structured Joiner-Mover-Leaver process |
+| |  |
+|  |  |
 
 ## 🛡 Security Operations Labs & Training
 
