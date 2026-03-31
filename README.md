@@ -23,7 +23,7 @@ To obtain an IAM Analyst position where I can apply my technical expertise and p
 - Conducted Access Reviews and enforced least privilege
 - Configured Conditional Access policies and MFA enforcement
 
-## 🧪 IAM Projects (In Progress)
+## 🧪 IAM Projects 
 
 | Project | Description |
 |----------|------------|
