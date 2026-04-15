@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-I’m an IT professional with nearly 10 years of experience, progressing from IT Staff to IT Supervisor. Throughout my career, I’ve built strong expertise in IT operations, system administration, and network management, ensuring reliable and secure technology environments.
+I’m an IT professional with 10 years of experience, progressing from IT Staff to IT Supervisor. Throughout my career, I’ve built strong expertise in IT operations, system administration, and network management, ensuring reliable and secure technology environments.
 
 I have hands-on experience in cloud administration, including Microsoft Entra ID user and group provisioning/deprovisioning, as well as Microsoft 365 administration for managing collaboration tools and licenses.
 
