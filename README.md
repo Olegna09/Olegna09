@@ -29,7 +29,7 @@ To obtain an IAM Analyst position where I can apply my technical expertise and p
 |----------|------------|
 | **<a href="https://github.com/Olegna09/entra-id-identity-governance-lab">Enterprise Identity Governance Lab – Microsoft Entra ID</a>** | Implement a centralized IAM platform using Microsoft Entra ID to automate identity lifecycle management, enforce access governance, and strengthen security controls. |
 | **<a href="https://github.com/Olegna09/Hybrid-Architecture.git" >Microsoft Entra Hybrid Identity Architecture </a>** | AD DS Sync, Seamless SSO, Conditional Access, and Writeback. |
-| **<a href="https://github.com/Olegna09/Privilege-Identity-Management.git" >Privilege Identity Management **(On-going)** </a>** | Create a PIM Workflow |
+| **<a href="https://github.com/Olegna09/Privilege-Identity-Management.git" >Privileged Access Control with Entra PIM **(On-going)** </a>** | Implements a Zero Trust approach to privileged access using Microsoft Entra PIM, enabling just-in-time, approved, and auditable access to sensitive resources. |
 
 
 ## 🛡 Security Operations Labs & Training
